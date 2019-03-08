@@ -1,2 +1,3 @@
 ---
-package_name: python-dev
+package_names:
+- python-dev
